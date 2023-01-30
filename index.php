@@ -74,9 +74,9 @@ error_reporting(1);
       include 'matrix.php';
     }
 ?>
-<div>
+
 <hr> &copy; <?php echo date('Y'); ?> Edunova
-</div>
+
 </div>  
 
 <script src="assets/js/vendor.js"></script>
